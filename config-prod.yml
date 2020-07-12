@@ -1,1 +1,2 @@
-master branch,config-prod.yml
+config:
+  info: master branch,config-prod.yml
